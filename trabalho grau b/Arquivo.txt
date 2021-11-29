@@ -1,0 +1,4 @@
+0|Calculo|+ 12 12
+1|Escrita|12 / 12
+2|Leitura
+3|Impressao

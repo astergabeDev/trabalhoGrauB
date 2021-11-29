@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "trabalho grau b/1.0.0": {
+        "runtime": {
+          "trabalho grau b.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trabalho grau b/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

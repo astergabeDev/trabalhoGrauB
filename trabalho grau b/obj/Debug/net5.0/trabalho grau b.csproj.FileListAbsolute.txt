@@ -1,0 +1,16 @@
+C:\Users\gabe\repos\trabalho grau b\bin\Debug\net5.0\trabalho grau b.exe
+C:\Users\gabe\repos\trabalho grau b\bin\Debug\net5.0\trabalho grau b.deps.json
+C:\Users\gabe\repos\trabalho grau b\bin\Debug\net5.0\trabalho grau b.runtimeconfig.json
+C:\Users\gabe\repos\trabalho grau b\bin\Debug\net5.0\trabalho grau b.runtimeconfig.dev.json
+C:\Users\gabe\repos\trabalho grau b\bin\Debug\net5.0\trabalho grau b.dll
+C:\Users\gabe\repos\trabalho grau b\bin\Debug\net5.0\ref\trabalho grau b.dll
+C:\Users\gabe\repos\trabalho grau b\bin\Debug\net5.0\trabalho grau b.pdb
+C:\Users\gabe\repos\trabalho grau b\obj\Debug\net5.0\trabalho grau b.csproj.AssemblyReference.cache
+C:\Users\gabe\repos\trabalho grau b\obj\Debug\net5.0\trabalho grau b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabe\repos\trabalho grau b\obj\Debug\net5.0\trabalho grau b.AssemblyInfoInputs.cache
+C:\Users\gabe\repos\trabalho grau b\obj\Debug\net5.0\trabalho grau b.AssemblyInfo.cs
+C:\Users\gabe\repos\trabalho grau b\obj\Debug\net5.0\trabalho grau b.csproj.CoreCompileInputs.cache
+C:\Users\gabe\repos\trabalho grau b\obj\Debug\net5.0\trabalho grau b.dll
+C:\Users\gabe\repos\trabalho grau b\obj\Debug\net5.0\ref\trabalho grau b.dll
+C:\Users\gabe\repos\trabalho grau b\obj\Debug\net5.0\trabalho grau b.pdb
+C:\Users\gabe\repos\trabalho grau b\obj\Debug\net5.0\trabalho grau b.genruntimeconfig.cache
