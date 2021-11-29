@@ -1,3 +1,3 @@
-# OOP Final Task 2021
+# OOP Final Task 2021/2
 
 ![alt text](img.png)
